@@ -72,7 +72,7 @@ Customize text per symbol instance. Naming a text element `sync:<key>` within a 
 + Voila! The content in the Sketch should have updated.
 + Notice there are some spelling errors in the synced content. Try syncing again with another version or even another language.
 
-[You can see the sample spreadsheet used for this example here.](https://docs.google.com/spreadsheets/d/1xkkFbXdCEC2Rr_rxO74jdZ30SZSxBuzLdNPFlhsjPws/edit?usp=sharing)
+[You can see the sample spreadsheet used for this example here.](https://docs.google.com/spreadsheets/d/1_wSbj8IjhM31wVaMglWV1qOsu95FOCk6Gr-pIFq81nA/edit?usp=sharing)
 
 
 # How to use it
