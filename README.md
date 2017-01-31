@@ -1,8 +1,6 @@
-[![GitHub version](https://badge.fury.io/gh/contentsync%2FSketchContentSync.sketchplugin.svg)](https://badge.fury.io/gh/contentsync%2FSketchContentSync.sketchplugin)
-
 # Sketch Content Sync
 
-Visit [www.contentsync.io](http://contentsync.io/).
+Visit [www.contentsync.io](http://contentsync.io/) for the now commercial implimentation. This is a fork of the last version that did not require an online account. 
 
 Dynamically update content within sketch files.
 
@@ -13,7 +11,7 @@ Currently support:
 
 # Installation
 
-+ Download the [zip file](https://github.com/ideo/SketchContentSync.sketchplugin/releases/download/v0.3.1/SketchContentSync.sketchplugin.zip)
++ Download the [zip file](https://github.com/jmarler/SketchContentSync.sketchplugin/releases/download/v0.3.1/SketchContentSync.sketchplugin.zip)
 + Unzip the zip file
 + Make sure the name of the file is `SketchContentSync.sketchplugin`.
 + Double click on the `SketchContentSync.sketchplugin` to install it into Sketch.
